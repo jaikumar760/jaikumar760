@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/jai-k-bb3861257/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="blank">
+  <a href="https://www.instagram.com/im_jaigupta/?hl=en" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </p>
