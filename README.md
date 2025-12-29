@@ -13,7 +13,7 @@
 - 🌱 I’m learning **Spring Boot, SQL & Data Structures**  
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, MySQL**  
 - 🎯 Goal: To become a **skilled backend developer**  
-- 📫 Reach me at **jaikumar7144@gmail.com**
+- 📫 Reach me at **jk4729954@gmail.com**
 
 ---
 
