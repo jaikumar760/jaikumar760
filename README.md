@@ -9,12 +9,14 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 I’m currently working on **Java Projects & Web Development**  
-- 🌱 I’m learning **Spring Boot, SQL & Data Structures**  
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, MySQL**  
-- 🎯 Goal: To become a **skilled backend developer**  
-- 📫 Reach me at **jk4729954@gmail.com**
+- 
+A Software Developer with strong skills in Java Full Stack development and hands-on experience in Data Science and Machine Learning.
+🔹 Proficient in Java, Spring Boot, SQL, and RESTful APIs  
+🔹 Experience with Python for data analysis and machine learning models  
+🔹 Built end-to-end full stack and backend systems  
+🔹 Comfortable working across backend, data processing, and API-driven applications  
 
+📫 Reach me at: jk4729954@gmail.com
 ---
 
 ### 🤝 Connect With Me  
