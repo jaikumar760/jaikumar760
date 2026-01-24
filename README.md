@@ -11,6 +11,7 @@
 ### 👨‍💻 About Me  
 - 
 A Software Developer with strong skills in Java Full Stack development and hands-on experience in Data Science and Machine Learning.
+
 🔹 Proficient in Java, Spring Boot, SQL, and RESTful APIs  
 🔹 Experience with Python for data analysis and machine learning models  
 🔹 Built end-to-end full stack and backend systems  
