@@ -1,46 +1,81 @@
-AI/ML Engineer | Python | Machine Learning | NLP | Flask
-<h1 align="center">Hi 👋, I'm Jai Kumar</h1> <h3 align="center">AI/ML Engineer | Machine Learning | NLP | Python | Scikit-learn</h3> <img align="right" alt="coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<h1 align="center">Hi 👋, I'm Jai Kumar</h1>
+<h3 align="center">MERN Stack Developer | Next.js | React | Node.js | Full Stack Developer</h3>
+
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 👨‍💻 About Me
 
-AI/ML focused developer with hands-on experience in Machine Learning, NLP, and predictive modeling.
-I enjoy building data-driven applications and deploying ML models into real-world systems.
+Full Stack MERN developer with hands-on experience in building scalable web applications using 
+React, Next.js, Node.js, and MongoDB. I enjoy developing responsive UI, REST APIs, and 
+full-stack production-ready applications.
 
-🔹 Strong in Python, Machine Learning & NLP
-🔹 Built SVM based Breast Cancer Detection model (96.5% accuracy)
-🔹 Developed TF-IDF Vector Similarity Search system
-🔹 Experience with Scikit-learn, Pandas, NumPy
-🔹 Built ML APIs using Flask
-🔹 Experience with data preprocessing and feature engineering
+🔹 Strong in React, Next.js & JavaScript  
+🔹 Built full-stack MERN applications  
+🔹 Experience with REST API development  
+🔹 Responsive UI using Tailwind CSS  
+🔹 Authentication & CRUD operations  
+🔹 GitHub based project deployment  
 
 📫 Reach me at: jk4729954@gmail.com
 
-🤖 AI/ML Skills
-Machine Learning
-Supervised Learning
-Support Vector Machine (SVM)
-Natural Language Processing (NLP)
-TF-IDF
-Cosine Similarity
-Feature Scaling
-Data Cleaning
-Model Evaluation
+
+🚀 MERN Stack Skills
+
+Frontend:
+React.js  
+Next.js  
+JavaScript (ES6+)  
+HTML5  
+CSS3  
+Tailwind CSS  
+
+Backend:
+Node.js  
+Express.js  
+REST API  
+Authentication (JWT)  
+CRUD Operations  
+
+Database:
+MongoDB  
+MySQL  
+
+Tools:
+Git  
+GitHub  
+VS Code  
+Postman  
+Vercel  
+Netlify  
+
+
 🧰 Languages & Tools
 
-Python • Scikit-learn • Pandas • NumPy • Flask
-MySQL • Jupyter Notebook • Git • GitHub
-REST API • Data Preprocessing • Model Deployment
+React • Next.js • Node.js • Express  
+MongoDB • MySQL • JavaScript  
+Tailwind CSS • HTML • CSS  
+Git • GitHub • REST API  
+
 
 🚀 Projects
-Breast Cancer Detection & Risk Assessment
-Built SVM model with 96.5% accuracy
-Implemented feature scaling and preprocessing pipeline
-Developed Flask API for prediction
-CSV upload + manual input prediction UI
-Vector Search Products (NLP)
-Built TF-IDF vector embedding system
-Implemented cosine similarity search
-Top-K product matching
-MySQL vector storage
-AWS Lambda style inference
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaikumar760&show_icons=true&theme=tokyonight" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaikumar760&layout=compact&theme=tokyonight" height="180px"/> </p>
+
+Full Stack MERN Authentication System
+User Login & Registration  
+JWT Authentication  
+Protected Routes  
+MongoDB Database  
+Responsive UI  
+
+Next.js Dashboard Application
+Admin dashboard UI  
+Reusable components  
+API integration  
+Responsive design  
+Clean folder structure  
+
+URL Shortener (Full Stack)
+Short URL generation  
+Redirect system  
+MySQL database  
+REST API  
+Frontend UI  
